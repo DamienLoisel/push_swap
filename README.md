@@ -12,4 +12,4 @@ The **push_swap** project at 42 involves creating a program that sorts a list of
 - **Error Handling**: Handle errors such as invalid input and duplicate values.
 
 ## Algorithm performance
-![image](https://github.com/user-attachments/assets/5d3b5ec0-cf6f-4ffc-a32a-1d87900a796d)
+![image](https://github.com/user-attachments/assets/abc15310-2d84-45ef-b41c-f5db5ca71a9b)
